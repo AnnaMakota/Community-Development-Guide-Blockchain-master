@@ -121,7 +121,7 @@ Network effects matter a lot.
 
 [EthCC](https://ethcc.io) - Ethereum community conference in Paris.
 
-**[Balancing the Budget of a Community Conference](https://medium.com/@jdetychey/ethcc-balancing-the-budget-of-a-community-conference-ae68198c2eeb) (by Jerome de Tychey)*.
+*[Balancing the Budget of a Community Conference](https://medium.com/@jdetychey/ethcc-balancing-the-budget-of-a-community-conference-ae68198c2eeb) (by Jerome de Tychey).
 
  [EthGlobal](https://ethglobal.co) - the series of the Ethereum hackathons around the world and the case how to onboard thousands of developers to the Ethereum community. 
 
