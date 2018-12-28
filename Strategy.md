@@ -219,7 +219,7 @@ The way to reward your community.
 
 [Bounties.network](https://bounties.network) - how to incentivize community to work on your project.
 
-**[Regarding the Community governance question (by Dean Eigenmann)](https://medium.com/@decanus/against-community-governance-326dc82b27d3)*.
+*[Regarding the Community governance question (by Dean Eigenmann)](https://medium.com/@decanus/against-community-governance-326dc82b27d3).
 
 ***
 ### <font color="green"> GRANTS </font>
@@ -228,4 +228,4 @@ The way to reward your community.
 To involve and encourage the brightest tech minds to power the future decentralized web.
 *[Mapping Dev Grants in Ethereum & Beyond](https://medium.com/ecf-review/mapping-out-grants-in-ethereum-and-beyond-41394b7ca3ba)* (by María Paula Fernández & Gabrielle Micheletti)
 
-**[Onboarding](https://github.com/Department-of-Decentralization/Ecosystem-Job-Openings/) (vacancies from the blockchain companies)*.
+*[Onboarding](https://github.com/Department-of-Decentralization/Ecosystem-Job-Openings/) (vacancies from the blockchain companies).
